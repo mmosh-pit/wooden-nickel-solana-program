@@ -1,6 +1,6 @@
-# Wooden Nickle Program
+# Wooden Nickel Program
 
-This program runs the logic to Mint and Trade the Wooden Nickle SFT.
+This program runs the logic to Mint and Trade the Wooden Nickel SFT.
 
 The Wooden Nickel is a semi-fungible token that serves as a token “Gate,” meaning it is required for certain functions and it carries the lineage of the minter.
 
